@@ -1,5 +1,5 @@
-#ifndef _H_INTEL_HW_ENCODER_
-#define _H_INTEL_HW_ENCODER_
+#ifndef _H_VIDEODECODER_
+#define _H_VIDEODECODER_
 
 #include <stdio.h>
 #include <vector>
